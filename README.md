@@ -55,6 +55,7 @@ I'm an **eCommerce Business Analyst** passionate about turning data into decisio
 - ✅ Power Automate flow automation
 - 🔄 mySQL for eCommerce data analysis
 - 🔄 Dashboard building with Excel & Copilot
+- 🔄 Learning Claude code
 
 ---
 
