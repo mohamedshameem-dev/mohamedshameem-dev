@@ -45,6 +45,7 @@ I'm an **eCommerce Business Analyst** passionate about turning data into decisio
 | 📖 [software-testing](https://github.com/mohamedshameem-dev/Software-Testing) | Fundamentals , prepare yourself , key takeaways — & more |
 | 📖 [XML-DTD-training](https://github.com/mohamedshameem-dev/XML-DTD-training) | <!ELEMENT>, <!ATTLIST>, and <!ENTITY> to enforce document structure — & more |
 | 📖 [Cards-Schemes-charges](https://github.com/mohamedshameem-dev/card-scheme-fees-Payment-charges) | fees, charges, who pays, who receives & more  |
+| 📖 [Claude Ai defect dashboard](https://github.com/mohamedshameem-dev/Monthly-Release-Defect-Dashboard) | categories, priorities, metrics, defect age & more |
 
 ---
 
